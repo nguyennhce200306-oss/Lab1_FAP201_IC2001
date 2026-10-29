@@ -1,0 +1,18 @@
+[
+ {
+  "InstFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab1/src/Lab1.v",
+  "InstLine" : 1,
+  "InstName" : "Lab1",
+  "ModuleFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab1/src/Lab1.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "Lab1"
+ },
+ {
+  "InstFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab1/src/Lab1.vhd",
+  "InstLine" : 4,
+  "InstName" : "Lab1",
+  "ModuleFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab1/src/Lab1.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "Lab1"
+ }
+]
